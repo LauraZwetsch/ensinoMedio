@@ -62,11 +62,7 @@ function iniciarJogo(){
                 case 13:
                     fase13()
                     break
-            }
-       
-            // if (vida < 0){
-            // iniciarJogo()
-            // }
+       }
  
         }
         console.log("Você zerou os pontos e perdeu o jogo! Reiniciando...")
